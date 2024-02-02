@@ -2,7 +2,7 @@
 
 #navBar{
           flex-direction: column;
-          padding-bottom: 10px;
+          padding-bottom: 20px;
 }
 
 #navBar ul li a{
